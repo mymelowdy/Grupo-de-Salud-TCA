@@ -1,0 +1,36 @@
+styles.css
+body {
+    font-family: 'Arial, sans-serif';
+    background-color: #f8d7da;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+h1 {
+    color: #d9534f;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top: 2px solid #ccc;
+    margin-top: 20px;
+}
